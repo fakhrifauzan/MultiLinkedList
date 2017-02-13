@@ -13,7 +13,7 @@ Fakhri Fauzan (1301154374)
 Arfini Ainiyyah D
 
 
-Dosen Penngampu :
+Dosen Pengampu :
 
 Bambang Ari Wahyudi (BBD)
 
