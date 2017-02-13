@@ -1,7 +1,8 @@
 # TubesASD
 
 Aplikasi Pemesanan/Boking Rumah pada sebuah Perumahan.
---Menggunakan Konsep Multi Linked List
+
+.:: Menggunakan Konsep Multi Linked List ::.
 Untuk memenuhi TUGAS BESAR Struktur Data
 
 Team :
