@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480829475 source:d:\cplusplus\tubesasd\main.cpp
+	"multilinkedlist.h"
+	<iostream>
+
+1480900000 d:\cplusplus\tubesasd\multilinkedlist.h
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string>
+
+1481155853 source:d:\cplusplus\tubesasd\multilinkedlist.cpp
+	"multilinkedlist.h"
+
